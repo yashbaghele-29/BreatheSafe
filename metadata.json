@@ -1,0 +1,6 @@
+{
+  "name": "BreatheSafe",
+  "description": "A simple GenAI-powered assistant helping families and communities navigate severe winter smog with low-emission daily routines, indoor air quality hacks, and clear impact insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
